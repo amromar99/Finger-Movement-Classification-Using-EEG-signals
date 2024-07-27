@@ -1,14 +1,16 @@
-# Motor Imagery EEG Signal Analysis for Finger Movement: 
-An Approach to Brain-Computer Interfaces
-*******==========================================********
-
-## Motivation and Purpose
-In this study, we aimed to classify finger movements using brain signals captured through EEG. We focused on five distinct classes of finger movements: Thumb, Index, Middle, Ring, and Pinky. Utilizing ML models (Machine Learning),CNN, RNN and hybrid approach CNN +Transformer 
-
 ## Author
 Eng/Amr Mostafa Omar  
 TA at ITCS school , Nile University, Cairo, Egypt  
 Date: 20/6/2024
+
+*******==========================================********
+   Motor Imagery EEG Signal Analysis for Finger Movement: 
+        An Approach to Brain-Computer Interfaces
+*******==========================================********
+
+## Motivation and Purpose:
+In this study, we aimed to classify finger movements using brain signals captured through EEG. We focused on five distinct classes of finger movements: Thumb, Index, Middle, Ring, and Pinky. Utilizing ML models (Machine Learning),CNN, RNN and hybrid approach CNN +Transformer 
+
 
 ## Features
 - **Reduced Channel Count:** Focus on fewer channels to facilitate real-time application without compromising accuracy.
@@ -61,7 +63,7 @@ Date: 20/6/2024
 ### Step 3: Split Data into Classes
 - Assign data to specific classes (Thumb, Index, Middle, Ring, Pinky) and balance classes.
 
-### Step 4: Split Data into Training and Testing Sets
+### Step 4: Split Data into Training and Testing Sets 80 : 20
 - Split data into training and testing sets using `train_test_split` from `sklearn.model_selection`.
 
 ### Step 5: Apply Continuous Wavelet Transform (CWT)
@@ -75,11 +77,8 @@ Date: 20/6/2024
 ====================================================================================
 
 Ensure you have access to the dataset and update the paths accordingly in the code. 
+https://zenodo.org/records/4316450#.X9MdDrMRWUk
 
 =====================================================================================
-## Final Deliveries
-- A link to the GitHub repository: [GitHub Repository](https://github.com/yourusername/EEG-Signal-Analysis)
-- The repository contains a README file with step-by-step instructions to replicate the experiments.
-- A list of required libraries is provided to run the experiments.
-- The final deliveries are aligned with the presentation and project requirements that attached on Onq.
+
 
