@@ -1,4 +1,4 @@
-##Author
+## Author
 Eng/Amr Mostafa Omar  
 TA at ITCS school , Nile University, Cairo, Egypt  
 Date: 20/6/2024
@@ -18,10 +18,10 @@ In this study, we aimed to classify finger movements using brain signals capture
 - **Real-Time Application:** Practical solutions for real-time scenarios using a reduced number of EEG channels.
 
 ## Technologies Used
-- **Machine Learning Models:** Utilization of various ML models to process and analyze EEG signals.
-- **Convolutional Neural Networks (CNN):** For spatial feature extraction from EEG data.
-- **Recurrent Neural Networks (RNN):** For temporal feature extraction from EEG data.
-- **Hybrid Models:** Combination of CNN and transformer to leverage both spatial and temporal features for improved accuracy.
+- Machine Learning Models:** Utilization of various ML models to process and analyze EEG signals.
+- Convolutional Neural Networks (CNN):** For spatial feature extraction from EEG data.
+- Recurrent Neural Networks (RNN):** For temporal feature extraction from EEG data.
+- Hybrid Models:** Combination of CNN and transformer to leverage both spatial and temporal features for improved accuracy.
 
 ## Installation Instructions
 
